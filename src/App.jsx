@@ -30,7 +30,7 @@ function Hero() {
     <section className="hero">
       {decorations.map((d, i) => <FloatingEmoji key={i} emoji={d.emoji} style={d.style} />)}
       <div className="eyebrow-tag">A page your little brother built you</div>
-      <h1>Happy Birthday,<br /><span className="accent">Niyonika</span> 🎂</h1>
+      <h1>Happy Birthday,<br /><span className="accent">Niyonika didiii</span> 🎂</h1>
       <p className="sub">
         You've put up with me for years, survived my terrible jokes, and somehow
         still call me back when I need something. Today's about you — so sit
