@@ -264,7 +264,7 @@ function Footer() {
   return (
     <footer>
       <span className="heart" aria-hidden="true">💗</span>
-      <div className="sign">Happy Birthday, Niyonika. I mean every ridiculous word of this.</div>
+      <div className="sign">Happy Birthday, Niyonika didii. I mean every ridiculous word of this.</div>
       <div className="note">— your brother, who made you a whole website instead of just texting "hbd"</div>
       <div className="note">— haa mene ye website ai se banayi hai heheheheh .. anyways sorry for the late wish 
         Happy birthdayy once again dii !!
